@@ -1,0 +1,2 @@
+# IamRich
+Flutter application IamRich
