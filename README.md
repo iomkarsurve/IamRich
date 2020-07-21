@@ -1,6 +1,7 @@
-# i_am_rich
+# i_am_rich/Poor
 
-I am Rich application
+I am Rich application 
+IamPoor application
 
 ## Getting Started
 
