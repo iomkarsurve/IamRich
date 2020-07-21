@@ -6,6 +6,15 @@ IamPoor application
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Based on imrich application by Armin Heinrich.
+
+## Things to learn from this:
+* Scaffold
+* image in application 
+* Center a widget
+* add appbar
+* change color of appbar and scaffold
+
 
 A few resources to get you started if this is your first Flutter project:
 
